@@ -1,0 +1,4 @@
+#!/bin/bash
+tmux split-window -v -l 30% && clear
+tmux split-window -h -l 50% && clear
+#tmux split-window -h -l 50%
