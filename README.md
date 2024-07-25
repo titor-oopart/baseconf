@@ -1,0 +1,2 @@
+# baseconf
+Configuration debian enviroment
